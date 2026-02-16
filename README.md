@@ -9,7 +9,7 @@
 ### 🏭 Industry / Commercial
 - *Corning — EBO connectors (case study)*  
   Summary of scope, my role, and results (sanitized / no confidential code).  
-  👉 Repo: <LINK>
+  👉 Repo: https://github.com/Ann-7-Ann/EBO_Monte_Carlo_Simulation
 
 ### ⚙️ Big Data / Engineering
 - *Kafka + Spark + Docker pipeline*  
@@ -23,7 +23,7 @@
   - Task 4.2 — Search algorithms (Snake route finder)
   - Task 4.3 — Single neuron (GUI + decision boundary)
   - Task 4.4 — Shallow neural network (FCNN + MNIST)
-  👉 Repo: https://github.com/Ann-7-Ann/EBO_Monte_Carlo_Simulation
+  👉 Repo: 
 
 ## Tech stack
 - Python, SQL

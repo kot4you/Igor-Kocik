@@ -14,7 +14,7 @@
 ### ⚙️ Big Data / Engineering
 - *Kafka + Spark + Docker pipeline*  
   Streaming pipeline with Docker Compose, Kafka topics, Spark processing.  
-  👉 Repo: <LINK>
+  👉 Repo: https://github.com/kot4you/BIG-DATA-project
 
 ### 🤖 AI / Machine Learning (course projects — one repo)
 - *AI course projects (monorepo)*  
@@ -23,7 +23,7 @@
   - Task 4.2 — Search algorithms (Snake route finder)
   - Task 4.3 — Single neuron (GUI + decision boundary)
   - Task 4.4 — Shallow neural network (FCNN + MNIST)
-  👉 Repo: <LINK_TO_AI_MONOREPO>
+  👉 Repo: https://github.com/Ann-7-Ann/EBO_Monte_Carlo_Simulation
 
 ## Tech stack
 - Python, SQL

@@ -1,20 +1,35 @@
 # Hi, I'm Igor Kocik 👋
 
 🎓 4th-year *Modelling & Data Science* student  
-📌 Interested in *Machine Learning / Data Science / Data Analytics*  
 📚 Relevant courses & certificates: see my *LinkedIn*  
-🔎 Open to *internships / junior roles*
-
-## Tech stack
-- Python (pandas, NumPy, scikit-learn)
-- SQL
-- Jupyter / notebooks
-- Git & GitHub
+🔎 Open to *internships / junior roles* (Data / ML)
 
 ## Featured projects
-Coming soon — I'm currently preparing my best projects for this profile.
 
+### 🏭 Industry / Commercial
+- *Corning — EBO connectors (case study)*  
+  Summary of scope, my role, and results (sanitized / no confidential code).  
+  👉 Repo: <LINK>
+
+### ⚙️ Big Data / Engineering
+- *Kafka + Spark + Docker pipeline*  
+  Streaming pipeline with Docker Compose, Kafka topics, Spark processing.  
+  👉 Repo: <LINK>
+
+### 🤖 AI / Machine Learning (course projects — one repo)
+- *AI course projects (monorepo)*  
+  A collection of 4 assignments:
+  - Task 4.1 — Fuzzy control (Pong)
+  - Task 4.2 — Search algorithms (Snake route finder)
+  - Task 4.3 — Single neuron (GUI + decision boundary)
+  - Task 4.4 — Shallow neural network (FCNN + MNIST)
+  👉 Repo: <LINK_TO_AI_MONOREPO>
+
+## Tech stack
+- Python, SQL
+- ML: scikit-learn / PyTorch / TensorFlow
+- Data: pandas, NumPy
+- Big Data: Spark, Kafka, Docker
 
 ## Contact
-- LinkedIn: <https://www.linkedin.com/in/igor-kocik/>
-
+- LinkedIn: https://www.linkedin.com/in/igor-kocik/

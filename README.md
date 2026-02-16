@@ -16,5 +16,5 @@ Coming soon — I'm currently preparing my best projects for this profile.
 
 
 ## Contact
-- LinkedIn: <LINKEDIN_URL>
-- Email: <EMAIL_OR_SKIP>
+- LinkedIn: <https://www.linkedin.com/in/igor-kocik/>
+
